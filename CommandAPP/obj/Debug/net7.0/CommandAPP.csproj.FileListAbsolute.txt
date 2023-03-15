@@ -1,0 +1,15 @@
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\CommandAPP\bin\Debug\net7.0\CommandAPP.exe
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\CommandAPP\bin\Debug\net7.0\CommandAPP.deps.json
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\CommandAPP\bin\Debug\net7.0\CommandAPP.runtimeconfig.json
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\CommandAPP\bin\Debug\net7.0\CommandAPP.dll
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\CommandAPP\bin\Debug\net7.0\CommandAPP.pdb
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\CommandAPP\obj\Debug\net7.0\CommandAPP.csproj.AssemblyReference.cache
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\CommandAPP\obj\Debug\net7.0\CommandAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\CommandAPP\obj\Debug\net7.0\CommandAPP.AssemblyInfoInputs.cache
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\CommandAPP\obj\Debug\net7.0\CommandAPP.AssemblyInfo.cs
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\CommandAPP\obj\Debug\net7.0\CommandAPP.csproj.CoreCompileInputs.cache
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\CommandAPP\obj\Debug\net7.0\CommandAPP.dll
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\CommandAPP\obj\Debug\net7.0\refint\CommandAPP.dll
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\CommandAPP\obj\Debug\net7.0\CommandAPP.pdb
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\CommandAPP\obj\Debug\net7.0\CommandAPP.genruntimeconfig.cache
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\CommandAPP\obj\Debug\net7.0\ref\CommandAPP.dll

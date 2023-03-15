@@ -1,10 +1,12 @@
+﻿// See https://aka.ms/new-console-template for more information
 using System;
-namespace CommandPattern
+namespace CommandAPP
 {
     static void Main(String[] args)
     {
-        Console.WriteLine("Command Pattern\n");
 
+        Console.WriteLine("Command Pattern\n");
+        
         Receiver receiver = new Receiver();
 
         // Comando A
