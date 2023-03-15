@@ -15,12 +15,10 @@ namespace CommandAPP
 
         public override void Execute()
         {
-           if (Acao.Equals("Comando A"))
-           {
+           if (Acao.Equals("Comando A")){
                 Receiver.ACommand();
            }
-           else
-           {
+           else{
                 Receiver.BCommand();
            }
         }
