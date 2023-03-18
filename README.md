@@ -11,7 +11,7 @@ After that, you need to type 'dotnet run' in the terminal.
 
 
 # Facade Pattern
-This project was designed with java language. You need JDK installed. To check if you already have that, run 'java -version'.
+This project was designed in Java. You need JDK installed. To check if you already have that, run 'java -version'.
 
 After that, install "Java Extension Pack" in VS Code.
 
