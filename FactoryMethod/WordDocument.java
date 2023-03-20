@@ -1,28 +1,20 @@
 
 public class WordDocument extends Document{
 
-	@Override
 	public void open() {
 		System.out.println("Aberto em WORD");
 		
 	}
 
-	@Override
 	public void close() {
-		
+		System.out.println("Fechado em Word");
 		
 	}
 
-	@Override
 	public void save() {
-		
+		System.out.println("Salvo em Word");
 		
 	}
 
-	@Override
-	public void revert() {
-		
-		
-	}
 
 }
