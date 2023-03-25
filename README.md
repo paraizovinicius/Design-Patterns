@@ -22,4 +22,7 @@ Designed in Java. The Factory Method is a creational design pattern that provide
 # Abstract Factory
 Designed in Java. The Abstract Factory is a creational design pattern that provides an interface for creating families of related objects, without specifying their concrete classes. It allows you to create objects without specifying their implementation details, providing a way to decouple the code that creates objects from the code that uses them.
 
+# Decorator 
+Designed in C#. The Decorator pattern allows behavior to be added to individual objects without affecting the behavior of other objects in the same class. It involves wrapping an existing class with a new class that adds or modifies behavior. This pattern provides a flexible alternative to subclassing for extending functionality. It involves five main components: the Component interface, the ConcreteComponent class, the Decorator abstract class, Main class and the ConcreteDecorator classes. The Decorator pattern is useful for adding functionality to objects without modifying their original source code.
+
 
