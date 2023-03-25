@@ -25,4 +25,5 @@ Designed in Java. The Abstract Factory is a creational design pattern that provi
 # Decorator 
 Designed in C#. The Decorator pattern allows behavior to be added to individual objects without affecting the behavior of other objects in the same class. It involves wrapping an existing class with a new class that adds or modifies behavior. This pattern provides a flexible alternative to subclassing for extending functionality. It involves five main components: the Component interface, the ConcreteComponent class, the Decorator abstract class, Main class and the ConcreteDecorator classes. The Decorator pattern is useful for adding functionality to objects without modifying their original source code.
 
-
+# Observer
+Designed in C#. It defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically. In this pattern, the object that is being watched is called the "subject" or "observable", while the objects that are watching it are called "observers". The Observer pattern is used to decouple objects, promote reusability, and allow for greater flexibility in object interactions.
