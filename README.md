@@ -27,3 +27,6 @@ Designed in C#. The Decorator pattern allows behavior to be added to individual 
 
 # Observer
 Designed in C#. It defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically. In this pattern, the object that is being watched is called the "subject" or "observable", while the objects that are watching it are called "observers". The Observer pattern is used to decouple objects, promote reusability, and allow for greater flexibility in object interactions.
+
+# Strategy
+Designed in C#. It enables the selection of an algorithm at runtime from a family of interchangeable algorithms. It defines a set of algorithms, encapsulates each one, and makes them interchangeable within a context object. The context object can vary its behavior by delegating to different strategy objects. It is a useful tool for building software systems that require runtime flexibility in algorithm selection and behavior.
