@@ -1,0 +1,15 @@
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\CoR\obj\Debug\net7.0\CoR.csproj.AssemblyReference.cache
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\CoR\obj\Debug\net7.0\CoR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\CoR\obj\Debug\net7.0\CoR.AssemblyInfoInputs.cache
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\CoR\obj\Debug\net7.0\CoR.AssemblyInfo.cs
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\CoR\obj\Debug\net7.0\CoR.csproj.CoreCompileInputs.cache
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\CoR\bin\Debug\net7.0\CoR.exe
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\CoR\bin\Debug\net7.0\CoR.deps.json
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\CoR\bin\Debug\net7.0\CoR.runtimeconfig.json
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\CoR\bin\Debug\net7.0\CoR.dll
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\CoR\bin\Debug\net7.0\CoR.pdb
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\CoR\obj\Debug\net7.0\CoR.dll
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\CoR\obj\Debug\net7.0\refint\CoR.dll
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\CoR\obj\Debug\net7.0\CoR.pdb
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\CoR\obj\Debug\net7.0\CoR.genruntimeconfig.cache
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\CoR\obj\Debug\net7.0\ref\CoR.dll
