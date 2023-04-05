@@ -1,6 +1,6 @@
 # Object-Oriented-Programming
 
-All my personal POO projects here.
+All Software Patterns from GoF designed during Computer Sciences Bachelor.
 
 Some projects were designed in Java. You need to install JDK https://www.oracle.com/java/technologies/javase-downloads.html. To check if you already have that, run 'java -version'. After that, install "Java Extension Pack" in VS Code. To run the main file, go to the right directory witch has the main file using 'cd filename' in the terminal and type 'java filename' in the terminal.
 
