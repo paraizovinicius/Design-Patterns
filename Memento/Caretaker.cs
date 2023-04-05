@@ -1,12 +1,13 @@
 using System;
 using System.Collections.Generic;
 
-// Fornece ao Memento de volta ao Originator para restaurar o estado interno // Backup
+// Gives Memento back to Originator to restaure the internal state // Backup
 namespace Memento
 {
     class Caretaker
     {
-        private List<Memento> _mementos = new List<Memento>();
+        // This list only can keep Memento objects
+        private List<Memento> _mementos = new List<Memento>(); 
         private Originator _originator;
 
         public Caretaker(Originator originator)
@@ -16,29 +17,29 @@ namespace Memento
 
         public void Backup()
         {
-            Console.WriteLine("\nCaretaker: Salvando estado do Originator...");
+            Console.WriteLine("\nCaretaker: Saving state of Originator...");
             _mementos.Add(_originator.SaveStateToMemento());
         }
 
         public void Undo()
         {
-            // Verifica se há mementos armazenados na lista
+            // Verify if there's mementos kept in the list
             if (_mementos.Count == 0)
             {
-                return; // Se não houver, sai do método
+                return; // If not, exits method
             }
 
 
-            // Obtém o penúltimo memento da lista
+            // Obtains the penultimate memento of the list
             var memento = _mementos[_mementos.Count - 2];
 
-            // Remove o último memento da lista
+            // Removes the last memento of the list
             _mementos.RemoveAt(_mementos.Count - 1);
 
-            // Imprime uma mensagem indicando que o estado do Originator está sendo restaurado
-            Console.WriteLine("\nCaretaker: Restaurando estado do Originator...");
+            // Prints a message indicating that the state of Originator is being restaured
+            Console.WriteLine("\nCaretaker: Restauring Originator state...");
 
-            // Restaura o estado do Originator a partir do memento obtido
+            // Restaures the state of Originator from the obtained penultimate memento
             _originator.GetStateFromMemento(memento);
         }
 
