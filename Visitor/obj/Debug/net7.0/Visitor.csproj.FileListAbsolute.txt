@@ -1,0 +1,15 @@
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Visitor\obj\Debug\net7.0\Visitor.csproj.AssemblyReference.cache
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Visitor\obj\Debug\net7.0\Visitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Visitor\obj\Debug\net7.0\Visitor.AssemblyInfoInputs.cache
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Visitor\obj\Debug\net7.0\Visitor.AssemblyInfo.cs
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Visitor\obj\Debug\net7.0\Visitor.csproj.CoreCompileInputs.cache
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Visitor\bin\Debug\net7.0\Visitor.exe
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Visitor\bin\Debug\net7.0\Visitor.deps.json
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Visitor\bin\Debug\net7.0\Visitor.runtimeconfig.json
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Visitor\bin\Debug\net7.0\Visitor.dll
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Visitor\bin\Debug\net7.0\Visitor.pdb
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Visitor\obj\Debug\net7.0\Visitor.dll
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Visitor\obj\Debug\net7.0\refint\Visitor.dll
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Visitor\obj\Debug\net7.0\Visitor.pdb
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Visitor\obj\Debug\net7.0\Visitor.genruntimeconfig.cache
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Visitor\obj\Debug\net7.0\ref\Visitor.dll
