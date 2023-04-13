@@ -2,9 +2,9 @@
 
 All Software Patterns from GoF designed during Computer Sciences Bachelor.
 
-Some projects were designed in Java. You need to install JDK https://www.oracle.com/java/technologies/javase-downloads.html. To check if you already have that, run 'java -version'. After that, install "Java Extension Pack" in VS Code. To run the main file, go to the right directory witch has the main file using 'cd filename' in the terminal and type 'java filename' in the terminal.
+Some projects were designed in Java. You need to install JDK https://www.oracle.com/java/technologies/javase-downloads.html. To check if you already have that, run 'java -version'. After that, install the extension"Java Extension Pack" in VS Code. To run the main file, go to the right directory witch has the main file using 'cd filename' in the terminal and type, in the terminal, 'javac filename' to compile an then 'java filename' to run.
 
-Some other projects were designed in C#. To run this application, make sure you have .NET compiler installed in your computer https://dotnet.microsoft.com/pt-br/download. Go to the right directory witch has the main file using 'cd filename' in the terminal. After that, you need to type 'dotnet run' in the terminal.
+Some projects were designed in C#. To run this application, make sure you have .NET compiler installed in your computer https://dotnet.microsoft.com/pt-br/download. Go to the right directory witch has the main file using 'cd filename' in the terminal. After that, you need to type 'dotnet run' in the terminal.
 
 
 ### Abstract Factory
@@ -37,13 +37,22 @@ Designed in C#. The Decorator pattern allows behavior to be added to individual 
 ### Facade Pattern
 
 Designed in Java. The Facade Pattern is a structural design pattern that provides a simplified interface to a complex system of classes, functions, or subsystems. It allows clients to interact with a simplified interface rather than dealing with the complexity of the underlying system directly, making it easier to use and understand.
+
 ### Factory Method
 
 Designed in Java. The Factory Method is a creational design pattern that provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created. This pattern allows for more flexibility and extensibility in object creation, as new objects can be created without changing the code in the superclass.
 
+### Flyweight
+
+Designed in Java. It is a structural pattern that allows you to share common state across multiple objects, reducing memory usage and improving performance. The pattern works by separating an object's intrinsic state (which is common across all instances) from its extrinsic state (which varies from instance to instance). The intrinsic state is stored in a Flyweight object, while the extrinsic state is passed in as a parameter when the object is created. For example, a text editor may use the Flyweight pattern to share font objects across multiple pieces of text. 
+
+### Interpreter
+
+Designed in C#. It is a behavioral pattern that provides a way to evaluate sentences in a language. It defines a grammar for the language and provides a way to interpret sentences in that grammar. For example, you can use the Interpreter pattern to define a grammar for mathematical expressions and then provide an interpreter that can evaluate those expressions. The interpreter breaks down the expression into smaller parts (e.g., operands and operators) and recursively evaluates each part until the entire expression has been evaluated.
+
 ### Memento
 
-Designed in C#. A behavioral pattern that allows you to capture and externalize an object's internal state, allowing you to restore the object to its previous state. It provides a way to undo operations without violating encapsulation.
+Designed in C#. A behavioral pattern that allows you to capture and externalize an object's internal state, allowing you to restore the object to its previous state. For example, a word processor may use the Memento pattern to allow the user to undo and redo changes to a document. Each change to the document creates a new Memento object, which is added to a stack. 
 
 ### Observer
 
@@ -60,3 +69,7 @@ Designed in C#. A behavioral pattern that allows you to alter an object's behavi
 ### Strategy
 
 Designed in C#. It enables the selection of an algorithm at runtime from a family of interchangeable algorithms. It defines a set of algorithms, encapsulates each one, and makes them interchangeable within a context object. The context object can vary its behavior by delegating to different strategy objects. It is a useful tool for building software systems that require runtime flexibility in algorithm selection and behavior.
+
+### Visitor 
+
+Designed in C#. It is a behavioral pattern that separates an algorithm from the object structure on which it operates. It allows you to add new operations to an object structure without modifying the objects themselves. 
