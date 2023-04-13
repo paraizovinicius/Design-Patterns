@@ -1,0 +1,15 @@
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Iterator\obj\Debug\net7.0\Iterator.csproj.AssemblyReference.cache
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Iterator\obj\Debug\net7.0\Iterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Iterator\obj\Debug\net7.0\Iterator.AssemblyInfoInputs.cache
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Iterator\obj\Debug\net7.0\Iterator.AssemblyInfo.cs
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Iterator\obj\Debug\net7.0\Iterator.csproj.CoreCompileInputs.cache
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Iterator\bin\Debug\net7.0\Iterator.exe
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Iterator\bin\Debug\net7.0\Iterator.deps.json
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Iterator\bin\Debug\net7.0\Iterator.runtimeconfig.json
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Iterator\bin\Debug\net7.0\Iterator.dll
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Iterator\bin\Debug\net7.0\Iterator.pdb
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Iterator\obj\Debug\net7.0\Iterator.dll
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Iterator\obj\Debug\net7.0\refint\Iterator.dll
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Iterator\obj\Debug\net7.0\Iterator.pdb
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Iterator\obj\Debug\net7.0\Iterator.genruntimeconfig.cache
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Iterator\obj\Debug\net7.0\ref\Iterator.dll
