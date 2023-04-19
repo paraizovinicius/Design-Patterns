@@ -1,0 +1,15 @@
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\TemplateMethod\obj\Debug\net7.0\TemplateMethod.csproj.AssemblyReference.cache
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\TemplateMethod\obj\Debug\net7.0\TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\TemplateMethod\obj\Debug\net7.0\TemplateMethod.AssemblyInfoInputs.cache
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\TemplateMethod\obj\Debug\net7.0\TemplateMethod.AssemblyInfo.cs
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\TemplateMethod\obj\Debug\net7.0\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\TemplateMethod\bin\Debug\net7.0\TemplateMethod.exe
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\TemplateMethod\bin\Debug\net7.0\TemplateMethod.deps.json
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\TemplateMethod\bin\Debug\net7.0\TemplateMethod.runtimeconfig.json
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\TemplateMethod\bin\Debug\net7.0\TemplateMethod.dll
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\TemplateMethod\bin\Debug\net7.0\TemplateMethod.pdb
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\TemplateMethod\obj\Debug\net7.0\TemplateMethod.dll
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\TemplateMethod\obj\Debug\net7.0\refint\TemplateMethod.dll
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\TemplateMethod\obj\Debug\net7.0\TemplateMethod.pdb
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\TemplateMethod\obj\Debug\net7.0\TemplateMethod.genruntimeconfig.cache
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\TemplateMethod\obj\Debug\net7.0\ref\TemplateMethod.dll

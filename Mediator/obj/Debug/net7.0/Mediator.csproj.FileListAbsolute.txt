@@ -1,0 +1,15 @@
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Mediator\bin\Debug\net7.0\Mediator.exe
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Mediator\bin\Debug\net7.0\Mediator.deps.json
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Mediator\bin\Debug\net7.0\Mediator.runtimeconfig.json
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Mediator\bin\Debug\net7.0\Mediator.dll
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Mediator\bin\Debug\net7.0\Mediator.pdb
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Mediator\obj\Debug\net7.0\Mediator.csproj.AssemblyReference.cache
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Mediator\obj\Debug\net7.0\Mediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Mediator\obj\Debug\net7.0\Mediator.AssemblyInfoInputs.cache
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Mediator\obj\Debug\net7.0\Mediator.AssemblyInfo.cs
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Mediator\obj\Debug\net7.0\Mediator.csproj.CoreCompileInputs.cache
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Mediator\obj\Debug\net7.0\Mediator.dll
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Mediator\obj\Debug\net7.0\refint\Mediator.dll
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Mediator\obj\Debug\net7.0\Mediator.pdb
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Mediator\obj\Debug\net7.0\Mediator.genruntimeconfig.cache
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Mediator\obj\Debug\net7.0\ref\Mediator.dll
