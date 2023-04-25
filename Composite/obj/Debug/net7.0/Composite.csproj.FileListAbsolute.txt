@@ -1,0 +1,15 @@
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Composite\obj\Debug\net7.0\Composite.csproj.AssemblyReference.cache
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Composite\obj\Debug\net7.0\Composite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Composite\obj\Debug\net7.0\Composite.AssemblyInfoInputs.cache
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Composite\obj\Debug\net7.0\Composite.AssemblyInfo.cs
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Composite\obj\Debug\net7.0\Composite.csproj.CoreCompileInputs.cache
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Composite\bin\Debug\net7.0\Composite.exe
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Composite\bin\Debug\net7.0\Composite.deps.json
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Composite\bin\Debug\net7.0\Composite.runtimeconfig.json
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Composite\bin\Debug\net7.0\Composite.dll
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Composite\bin\Debug\net7.0\Composite.pdb
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Composite\obj\Debug\net7.0\Composite.dll
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Composite\obj\Debug\net7.0\refint\Composite.dll
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Composite\obj\Debug\net7.0\Composite.pdb
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Composite\obj\Debug\net7.0\Composite.genruntimeconfig.cache
+C:\Users\parai\Documents\Github - POO\Object-Oriented-Programming\Composite\obj\Debug\net7.0\ref\Composite.dll
